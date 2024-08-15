@@ -36,3 +36,5 @@ Save annotated frames and compile them into an output video.
 1. **Traffic Monitoring:** Provides real-time speed data for traffic analysis and management.
 2. **Vehicle Analysis:** Useful for studying vehicle behavior, traffic flow, and congestion.
 3. **Automated Systems:** Can be integrated into automated traffic control systems for better management and enforcement.
+
+![Alt text](frame_185.jpg)
